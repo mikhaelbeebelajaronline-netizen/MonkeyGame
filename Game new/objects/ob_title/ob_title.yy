@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"ob_banana",
-  "eventList":[],
+  "%Name":"ob_title",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"ob_banana",
+  "name":"ob_title",
   "overriddenProperties":[],
   "parent":{
-    "name":"collectibles",
-    "path":"folders/Object/collectibles.yy",
+    "name":"title",
+    "path":"folders/Object/title.yy",
   },
-  "parentObjectId":{
-    "name":"kode_collectibles",
-    "path":"objects/kode_collectibles/kode_collectibles.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_banana",
-    "path":"sprites/sp_banana/sp_banana.yy",
+    "name":"title",
+    "path":"sprites/title/title.yy",
   },
   "spriteMaskId":null,
   "visible":true,

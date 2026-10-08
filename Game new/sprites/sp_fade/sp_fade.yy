@@ -32,7 +32,7 @@
   "origin":0,
   "parent":{
     "name":"Function",
-    "path":"folders/Sprite/Buah/Function.yy",
+    "path":"folders/Sprite/Function.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

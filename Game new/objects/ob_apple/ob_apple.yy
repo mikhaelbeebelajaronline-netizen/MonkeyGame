@@ -6,10 +6,13 @@
   "name":"ob_apple",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Object.yy",
+    "name":"collectibles",
+    "path":"folders/Object/collectibles.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"kode_collectibles",
+    "path":"objects/kode_collectibles/kode_collectibles.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

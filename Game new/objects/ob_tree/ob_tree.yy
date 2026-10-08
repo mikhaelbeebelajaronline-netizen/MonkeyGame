@@ -6,8 +6,8 @@
   "name":"ob_tree",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Object.yy",
+    "name":"hiasan",
+    "path":"folders/Object/hiasan.yy",
   },
   "parentObjectId":null,
   "persistent":false,

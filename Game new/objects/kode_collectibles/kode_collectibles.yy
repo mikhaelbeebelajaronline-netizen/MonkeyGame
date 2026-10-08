@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"ob_banana",
+  "%Name":"kode_collectibles",
   "eventList":[],
   "managed":true,
-  "name":"ob_banana",
+  "name":"kode_collectibles",
   "overriddenProperties":[],
   "parent":{
     "name":"collectibles",
     "path":"folders/Object/collectibles.yy",
   },
-  "parentObjectId":{
-    "name":"kode_collectibles",
-    "path":"objects/kode_collectibles/kode_collectibles.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sp_banana",
-    "path":"sprites/sp_banana/sp_banana.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
