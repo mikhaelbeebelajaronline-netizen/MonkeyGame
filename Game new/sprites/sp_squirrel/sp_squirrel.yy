@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"sp_squirrel",
   "bboxMode":0,
-  "bbox_bottom":40,
+  "bbox_bottom":44,
   "bbox_left":19,
   "bbox_right":39,
   "bbox_top":25,

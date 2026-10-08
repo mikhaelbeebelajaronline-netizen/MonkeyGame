@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"ob_bush",
+  "%Name":"ob_stump",
   "eventList":[],
   "managed":true,
-  "name":"ob_bush",
+  "name":"ob_stump",
   "overriddenProperties":[],
   "parent":{
     "name":"hiasan",
@@ -28,12 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_bush",
-    "path":"sprites/sp_bush/sp_bush.yy",
+    "name":"sp_stump",
+    "path":"sprites/sp_stump/sp_stump.yy",
   },
-  "spriteMaskId":{
-    "name":"sp_bush",
-    "path":"sprites/sp_bush/sp_bush.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
